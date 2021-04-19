@@ -1,4 +1,4 @@
-# Algo3
+# Algoritmos y programación I
 Cátedra Méndez. Lenguaje C. Manejo completo de vectores, estructuras y archivos.
 
 ### Trabajos prácticos
